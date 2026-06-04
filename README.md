@@ -1,7 +1,24 @@
 
-
 <h1 align="center">Hi 👋, I'm Mohammad Amin Mollakazemiha</h1>
-<h3 align="center">M.Sc. Software Engineering | Full-Stack Web & Python Developer | AI Enthusiast</h3>
+<h3 align="center">M.Sc. Software Engineering | Full-Stack & Python Developer | AI Researcher</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohammad-amin-mollakazemiha-5232201" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/MohammadAminTech" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://x.com/mamiopv?s=21X" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://youtube.com/@MohammadAminTech" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:mohammadaminml@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadaminml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,79 +26,76 @@
 
 ---
 
-## ✨ A Bit About Me
+## 🚀 Professional Summary
 
-- 🎓 Pursuing an M.Sc. in Software Engineering, deeply exploring advanced system architecture patterns like Parameter Fence and Timeout.
-- 🧑‍🏫 Passionate programming and AI instructor with extensive teaching experience across global and local platforms.
-- 💻 Currently developing a custom personal portfolio website using HTML/CSS to showcase my professional journey.
-- 🤖 Migrating and optimizing specialized Python bots for the Telegram ecosystem deployed on Linux servers.
-- 🌍 Highly proficient in English, currently polishing my skills for the IELTS exam to expand international collaborations.
+I am a Software Engineer currently pursuing an M.Sc. in Software Engineering, with a strong background in developing scalable web applications and advanced Python scripts. My focus bridges the gap between **software architecture** (patterns, system stability, API design) and **infrastructure** (Linux server management, deployment). 
+
+- 🎓 Exploring advanced concepts like Parameter Fence and Timeout architectures.
+- 🧑‍🏫 Experienced programming and AI instructor, dedicated to mentoring the next generation of developers.
+- 🤖 Specialized in migrating, optimizing, and deploying high-performance Python bots on Linux environments.
+- 🌍 Continuously advancing my professional English proficiency for seamless international collaboration.
 
 ---
 
-## 🔭 Featured Projects & Research
+## 🛠️ Tech Stack & Architecture
 
-- 🩺 **Doctor Appointment Web App**  
-  Full-stack platform for managing doctors, patients, and appointments using Django and React.
+<details>
+  <summary><b>💻 Backend & Core Technologies</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</details>
 
-- 🏥 **Patient Management System (KTH Royal Institute)**  
-  A robust system built entirely in C, focusing on strict memory management and custom data structures without high-level libraries.
+<details>
+  <summary><b>🌐 Frontend Technologies</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</details>
 
-- 📚 **AI-Powered Study Assistant**  
-  Chatbot using NLP to answer academic questions and recommend materials.
+<details>
+  <summary><b>⚙️ Database & DevOps</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</details>
 
-- 🧠 **Edge Intelligence & Generative AI**  
-  Published analytical reviews on the architecture and challenges of Edge AI and Generative AI in future networks.
+---
 
-- 🔗 **Blockchain in Smart Health**  
+## 📁 Featured Projects & Research
+
+### ⚙️ Enterprise & Backend Systems
+- 🏥 **Patient Management System (KTH Royal Institute)** | *C*  
+  Robust system focused on strict memory management and custom data structures without high-level libraries.
+- 🩺 **Doctor Appointment Platform** | *Django, React, PostgreSQL*  
+  Comprehensive full-stack architecture for scheduling, patient records, and secure role-based access.
+- 🔒 **Advanced Auth & Security System** | *Django, JWT*  
+  Scalable role-based access control with token verification and middleware security layers.
+
+### 🧠 Artificial Intelligence & Research
+- 🔗 **Blockchain in Smart Health** | *Research Paper*  
   Published research on access control in smart health systems focusing on security and privacy using Blockchain.
-
-- 🔒 **Advanced Django Auth System**  
-  Role-based access with email verification and JWT authentication.
-
-- 💬 **Real-Time Chat App**  
-  Live chat using Django Channels, Node.js, Redis & WebSocket.
+- 🌐 **Edge Intelligence & Generative AI** | *Research Paper*  
+  Analytical reviews on the architecture and challenges of Edge AI and Generative AI in future networks.
+- 📚 **AI-Powered Study Assistant** | *Python, NLP*  
+  Intelligent chatbot analyzing queries to recommend academic materials.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-**Backend & Core:**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Database & DevOps:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadaminml&show_icons=true&theme=default" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaminml&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadaminml&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaminml&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Streak" />
 </p>
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [Mohammad Amin Mollakazemiha](https://linkedin.com/in/mohammad-amin-mollakazemiha-5232201)
-- 🐦 X (Twitter): [@MohammadAminTech](https://x.com/mamiopv?s=21X)
-- 🧠 Telegram: [@MohammadAminTech](https://t.me/MohammadAminTech)  
-- 🎥 YouTube: [Mohammad Amin Tech](https://youtube.com/@MohammadAminTech)
-- ✉️ Email: mohammadaminml@icloud.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaminml&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" />
+</p>
